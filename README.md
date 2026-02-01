@@ -48,15 +48,6 @@ The analysis helps identify key factors affecting house prices and provides reli
 
 
 
-If you want, I can also:
 
 
-Shorten this to 5–6 lines for interview
-
-
-Convert it into resume project description
-
-
-Write the same explanation with Python libraries mentioned
-Just tell me 👍
 
